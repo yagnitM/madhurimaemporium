@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Madhurima Emporium
 
 Landing page for **Madhurima Emporium**, a home furnishing store in Maheshwar, Madhya Pradesh.
@@ -69,5 +68,3 @@ src/
 
 Category and gallery content lives in data files, so a product catalogue can later be added by extending `categories.js` with per-category product lists and adding routes.
 =======
-# madhurimaemporium
->>>>>>> 5d6d64dd8f505384414f6217f388a63b23c6e16d
